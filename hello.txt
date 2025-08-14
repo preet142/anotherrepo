@@ -1,1 +1,2 @@
-"hello git" 
+"this is also a second line but in txt file" 
+this is the third line.
